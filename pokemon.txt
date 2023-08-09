@@ -1,0 +1,14 @@
+GET:
+1. Jigglypuff:
+    https://pokeapi.co/api/v2/pokemon/jigglypuff/
+2. By id: 77
+    https://pokeapi.co/api/v2/pokemon/77/
+
+3. Pikachu:
+    https://pokeapi.co/api/v2/pokemon/pikachu/
+
+4. Squirtle 
+    https://pokeapi.co/api/v2/pokemon/squirtle
+
+5. Charizard
+    https://pokeapi.co/api/v2/pokemon/charizard
